@@ -1,0 +1,6 @@
+{
+  "name": "Procrastination Tetris",
+  "description": "A witty Tetris game where every falling block is a task you're putting off until tomorrow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
